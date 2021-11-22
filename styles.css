@@ -1,0 +1,50 @@
+/* h1{
+    color: red;
+    background-color: green;
+} */
+
+/* h2{
+    color: green;
+    background-color: blue;
+} */
+*{
+    text-align: center;
+}
+body{
+
+/* background-color:rgba(215, 145, 255,1); */
+/* 0123456789abcdef */
+background-color: #5057c2;
+
+
+}
+.text{
+
+    color: red;
+background-color: gold;
+
+
+}
+
+.h2{
+    color: green;
+}
+/* text uchun stillar */
+/* .v{
+    text-align: left,center,right;
+} */
+.textalign{
+    text-align: center;
+    color: red;
+    text-transform: capitalize;
+    /* text-decoration: underline; */
+    background-color: gold;
+    /* border-color:black;
+    border-width: 5px;
+    border-style: solid; */
+    /* border: 5px solid red; */
+    /* border: solid red 5px; */
+    border-left: solid 10px red;
+  
+    
+}
